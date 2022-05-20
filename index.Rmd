@@ -4,7 +4,7 @@ image: "profile.png"
 links:
   - label: Blog
     url: "http://research.libd.org/rstatsclub/"
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", fill = "forestgreen")` Twitter'
     url: "https://twitter.com/libdrstats"
 output:
   postcards::solana
