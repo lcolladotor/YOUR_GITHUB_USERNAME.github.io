@@ -1,15 +1,11 @@
 ---
-title: "Sigríður Björndotter"
-image: "sigridur.jpg"
+title: "Leo LIBD rstats club demo"
+image: "profile.png"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
   - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
+    url: "http://research.libd.org/rstatsclub/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/libdrstats"
 output:
   postcards::solana
 ---
