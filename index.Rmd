@@ -42,7 +42,9 @@ B.F.A. in Music Performance | August 2005 - May 2009
 
 **Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
 
- <center>	 
+<center>	 
       <div id="clustrmaps-widget"></div><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=Zo-deincaJGsqhqjIWsujtdoNOMJsnnZLefKmxDKVv8&co=124b73&cmo=dd53ff&cmn=4ec724'></script>
-      </center>
+</center>
       
+
+<a class="twitter-timeline" href="https://twitter.com/LIBDrstats?ref_src=twsrc%5Etfw">Tweets by LIBDrstats</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
